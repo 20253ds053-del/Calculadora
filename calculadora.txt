@@ -1,1 +1,2 @@
 //versioon base de la calculadora
+ [Operación] Función Suma Implementada.
